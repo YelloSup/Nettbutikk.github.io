@@ -1,12 +1,12 @@
 .grid-container {
     display: grid;
     grid-column-gap: 50px;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto;
     padding: 10px;
     }
 .button { border: none;
-    color: violet;
-    background-color: yellow;
+    color: blue;
+    background-color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -28,7 +28,7 @@
     margin: 4px 2px;
     cursor: pointer;} 
 .background {
-    background-image: url(Images/background.hpg);
+    background-image: url(Images/background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover} 
